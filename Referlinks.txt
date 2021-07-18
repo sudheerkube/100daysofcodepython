@@ -1,0 +1,5 @@
+https://github.com/bregman-arie/devops-resources/blob/master/resources/python.md
+
+https://www.educative.io/courses/learn-python-3-from-scratch
+
+https://www.youtube.com/watch?v=rfscVS0vtbw
